@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkict_itmo"]=self["webpackChunkict_itmo"]||[]).push([[1199],{1199:function(t,e,n){n.r(e),n.d(e,{default:function(){return l}});var i=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("p",[t._v("MagistracyView")])},a=[],c={name:"MagistracyView"},r=c,u=n(1001),s=(0,u.Z)(r,i,a,!1,null,"991496fa",null),l=s.exports}}]);
+//# sourceMappingURL=1199.f0f34293.js.map

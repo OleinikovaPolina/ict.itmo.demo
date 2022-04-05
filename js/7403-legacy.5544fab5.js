@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkict_itmo"]=self["webpackChunkict_itmo"]||[]).push([[7403],{87403:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("p",[e._v("NewView")])},i=[],l={name:"NewView"},c=l,r=n(1001),s=(0,r.Z)(c,u,i,!1,null,null,null),a=s.exports}}]);
+//# sourceMappingURL=7403-legacy.5544fab5.js.map
