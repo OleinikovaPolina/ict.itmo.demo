@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkict_itmo"]=self["webpackChunkict_itmo"]||[]).push([[924],{924:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var i=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",["7"===e.$route.params.id?t("CompetitionComponent"):e._e()],1)},o=[],r={name:"AdminFavoritesChangeView",components:{CompetitionComponent:()=>Promise.all([t.e(938),t.e(7275),t.e(2097),t.e(779),t.e(5057)]).then(t.bind(t,5057))}},a=r,u=t(1001),m=(0,u.Z)(a,i,o,!1,null,"3321ade8",null),s=m.exports}}]);
+//# sourceMappingURL=924.a027cbf2.js.map
