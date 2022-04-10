@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkict_itmo"]=self["webpackChunkict_itmo"]||[]).push([[955],{88625:function(t,e,n){var i=n(71824),o=n(20144);e["Z"]=o.Z.extend().extend({name:"bootable",props:{eager:Boolean},data:function(){return{isBooted:!1}},computed:{hasContent:function(){return this.isBooted||this.eager||this.isActive}},watch:{isActive:function(){this.isBooted=!0}},created:function(){"lazy"in this.$attrs&&(0,i.Jk)("lazy",this)},methods:{showLazyContent:function(t){return this.hasContent&&t?t():[this.$createElement()]}}})}}]);
+//# sourceMappingURL=955-legacy.fe873d1b.js.map
