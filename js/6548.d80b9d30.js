@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkict_itmo"]=self["webpackChunkict_itmo"]||[]).push([[6548],{6548:function(n,t,e){e.r(t),e.d(t,{default:function(){return r}});var u=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("BaseNotFound")},o=[],c={name:"NotFound",components:{BaseNotFound:()=>e.e(6643).then(e.bind(e,6643))}},l=c,s=e(1001),i=(0,s.Z)(l,u,o,!1,null,null,null),r=i.exports}}]);
+//# sourceMappingURL=6548.d80b9d30.js.map

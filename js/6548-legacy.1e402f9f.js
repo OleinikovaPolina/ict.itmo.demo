@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkict_itmo"]=self["webpackChunkict_itmo"]||[]).push([[6548],{96548:function(n,t,e){e.r(t),e.d(t,{default:function(){return s}});var u=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("BaseNotFound")},o=[],c=(e(41539),e(78783),e(33948),{name:"NotFound",components:{BaseNotFound:function(){return e.e(6643).then(e.bind(e,6643))}}}),r=c,i=e(1001),l=(0,i.Z)(r,u,o,!1,null,null,null),s=l.exports}}]);
+//# sourceMappingURL=6548-legacy.1e402f9f.js.map
