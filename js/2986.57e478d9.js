@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkict_itmo"]=self["webpackChunkict_itmo"]||[]).push([[2986],{2986:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("p")},c=[],i={name:"AdminUpdateAnnouncementView"},r=i,a=t(1001),l=(0,a.Z)(r,u,c,!1,null,"2f3d5a44",null),f=l.exports}}]);
+//# sourceMappingURL=2986.57e478d9.js.map
